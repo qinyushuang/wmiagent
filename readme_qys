@@ -1,0 +1,5 @@
+used for monitor windows resources (cpu,mem,disk,io and so on),based on tools below:
+pywin32-218.win32-py2.7.exe (64 bits machine should download different version)
+WMI-1.4.9.win32.exe (64 bits machine should download different version)
+WMITools.exe
+python-2.7.6.msi
